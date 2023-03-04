@@ -154,6 +154,7 @@ header .logo .logo-img{
         position: absolute;
         top: 120%;
         box-shadow: rgba(100, 100, 111,0.2) 0px 7px 29px 0px;
+        background-color: white;
         padding: 1rem 2rem;
         margin-left: -5rem;
         border-radius: 0.5rem;
@@ -211,6 +212,7 @@ li{
 }
 
 .authentication-part .register-btn{
+    background-color: white;
     border: 2px solid var(--Medium-Gray);
     border-radius: 1rem;
     cursor: pointer;
@@ -328,5 +330,3 @@ header .menu-bar{
         width: 4.5rem;
      }
 }
-
-
